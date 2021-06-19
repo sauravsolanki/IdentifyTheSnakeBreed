@@ -1,7 +1,3 @@
-
-
-Rank 45
-
 # IdentifiyTheSnakeBreed
 This is submitted against the HackerEarth Deep learning Contest mentioned below. 
 
